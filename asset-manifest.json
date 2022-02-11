@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/edray28/quote-generator-web/static/css/main.bfc13f4e.css",
-    "main.js": "/edray28/quote-generator-web/static/js/main.ba951665.js",
-    "static/js/415.91520ef3.chunk.js": "/edray28/quote-generator-web/static/js/415.91520ef3.chunk.js",
-    "static/js/787.6ac419d9.chunk.js": "/edray28/quote-generator-web/static/js/787.6ac419d9.chunk.js",
-    "index.html": "/edray28/quote-generator-web/index.html",
-    "main.bfc13f4e.css.map": "/edray28/quote-generator-web/static/css/main.bfc13f4e.css.map",
-    "main.ba951665.js.map": "/edray28/quote-generator-web/static/js/main.ba951665.js.map",
-    "415.91520ef3.chunk.js.map": "/edray28/quote-generator-web/static/js/415.91520ef3.chunk.js.map",
-    "787.6ac419d9.chunk.js.map": "/edray28/quote-generator-web/static/js/787.6ac419d9.chunk.js.map"
+    "main.css": "/quote-generator-web/static/css/main.bfc13f4e.css",
+    "main.js": "/quote-generator-web/static/js/main.095ed177.js",
+    "static/js/415.91520ef3.chunk.js": "/quote-generator-web/static/js/415.91520ef3.chunk.js",
+    "static/js/787.6ac419d9.chunk.js": "/quote-generator-web/static/js/787.6ac419d9.chunk.js",
+    "index.html": "/quote-generator-web/index.html",
+    "main.bfc13f4e.css.map": "/quote-generator-web/static/css/main.bfc13f4e.css.map",
+    "main.095ed177.js.map": "/quote-generator-web/static/js/main.095ed177.js.map",
+    "415.91520ef3.chunk.js.map": "/quote-generator-web/static/js/415.91520ef3.chunk.js.map",
+    "787.6ac419d9.chunk.js.map": "/quote-generator-web/static/js/787.6ac419d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bfc13f4e.css",
-    "static/js/main.ba951665.js"
+    "static/js/main.095ed177.js"
   ]
 }
