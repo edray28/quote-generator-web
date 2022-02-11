@@ -1,5 +1,6 @@
 {
   "name": "quote-generator-web",
+  "homepage": "https://github.com/edray28/quote-generator-web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
