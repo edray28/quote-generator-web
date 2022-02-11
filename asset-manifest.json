@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/quote-generator-web/static/css/main.bfc13f4e.css",
-    "main.js": "/quote-generator-web/static/js/main.095ed177.js",
-    "static/js/415.91520ef3.chunk.js": "/quote-generator-web/static/js/415.91520ef3.chunk.js",
-    "static/js/787.6ac419d9.chunk.js": "/quote-generator-web/static/js/787.6ac419d9.chunk.js",
+    "main.css": "/quote-generator-web/static/css/main.97393cbe.chunk.css",
+    "main.js": "/quote-generator-web/static/js/main.74d47053.chunk.js",
+    "main.js.map": "/quote-generator-web/static/js/main.74d47053.chunk.js.map",
+    "runtime~main.js": "/quote-generator-web/static/js/runtime~main.70215592.js",
+    "runtime~main.js.map": "/quote-generator-web/static/js/runtime~main.70215592.js.map",
+    "static/css/2.3b2cfc2e.chunk.css": "/quote-generator-web/static/css/2.3b2cfc2e.chunk.css",
+    "static/js/2.1e98b21d.chunk.js": "/quote-generator-web/static/js/2.1e98b21d.chunk.js",
+    "static/js/2.1e98b21d.chunk.js.map": "/quote-generator-web/static/js/2.1e98b21d.chunk.js.map",
+    "static/js/3.2e8a5fb9.chunk.js": "/quote-generator-web/static/js/3.2e8a5fb9.chunk.js",
+    "static/js/3.2e8a5fb9.chunk.js.map": "/quote-generator-web/static/js/3.2e8a5fb9.chunk.js.map",
+    "static/js/4.11e747a6.chunk.js": "/quote-generator-web/static/js/4.11e747a6.chunk.js",
+    "static/js/4.11e747a6.chunk.js.map": "/quote-generator-web/static/js/4.11e747a6.chunk.js.map",
     "index.html": "/quote-generator-web/index.html",
-    "main.bfc13f4e.css.map": "/quote-generator-web/static/css/main.bfc13f4e.css.map",
-    "main.095ed177.js.map": "/quote-generator-web/static/js/main.095ed177.js.map",
-    "415.91520ef3.chunk.js.map": "/quote-generator-web/static/js/415.91520ef3.chunk.js.map",
-    "787.6ac419d9.chunk.js.map": "/quote-generator-web/static/js/787.6ac419d9.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.bfc13f4e.css",
-    "static/js/main.095ed177.js"
-  ]
+    "precache-manifest.0186ec8694fe70202ba88cf4096dec4e.js": "/quote-generator-web/precache-manifest.0186ec8694fe70202ba88cf4096dec4e.js",
+    "service-worker.js": "/quote-generator-web/service-worker.js",
+    "static/css/2.3b2cfc2e.chunk.css.map": "/quote-generator-web/static/css/2.3b2cfc2e.chunk.css.map",
+    "static/css/main.97393cbe.chunk.css.map": "/quote-generator-web/static/css/main.97393cbe.chunk.css.map"
+  }
 }
